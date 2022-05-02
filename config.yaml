@@ -1,0 +1,13 @@
+APP:
+  SOURCE_MOVIES: "/mnt/downloads/movies/"
+  DESTINATION_MOVIES: "/remote-media/Movies/Feature Films/"
+  SOURCE_ANIMETV: "/mnt/downloads/sonarr-anime/"
+  DESTINATION_ANIMETV: "/remote-media/TV Shows/Anime/"
+  SOURCE_TV: "/mnt/downloads/tv/"
+  DESTINATION_TV: "/remote-media/TV Shows/TV Shows/"
+  SOURCE_4K_MOVIES: "/mnt/downloads/radarr4k/"
+  DESTINATION_4K_MOVIES: "/remote-media/Movies/Movies 4K/"
+  MAL_CLIENT_ID: "4b8a250594d113044b5bc48a9e720840"
+  PLEX_TOKEN: "ETEiEaxZq3NpCZyTHzjs"
+  LOG_LOCATION: "/home/jtoscarson/scripts/media_mover/logs/move.log"
+  PLEX_URL: "https://plex.oscarson.org"
